@@ -10,7 +10,7 @@
 Build a **single site with dual purpose:**
 
 1.  **Real business site for Mahakali Textile**, luxury ethnic & traditional clothing store in Palanpur, Gujarat, India — premium sarees (Bandhani, Patola, Banarasi, Kanjivaram, designer georgette/chiffon), bridal lehengas, designer suits/kurtis, luxury dress materials, shawls/stoles.
-2.  **Portfolio proof-of-work** by Chinmayee Tripathi (contact below) demonstrating 6 skills:
+2.  **Portfolio proof-of-work** by Chinmayee Tripathy (contact below) demonstrating 6 skills:
     - Digital Marketing (strategy, local lead-gen)
     - SEO (on-page + Local SEO)
     - Social Media Marketing / Posting (Instagram, Facebook, WhatsApp, YouTube Shorts)
@@ -68,7 +68,7 @@ index.html (one-page)
   14. Visit Us (address TBC, map embed, hours, directions)
   15. FAQ (SEO FAQs: price, alteration, wholesale, wedding orders)
   16. Contact (form + call + WhatsApp + email everywhere)
-  17. Footer (NAP, hours, sitemap links, credit: Marketing by Chinmayee Tripathi)
+  17. Footer (NAP, hours, sitemap links, credit: Marketing by Chinmayee Tripathy)
   18. Floating: Call + WhatsApp buttons (mobile only)
 
 Supporting files for SEO portfolio Hydro:
@@ -226,7 +226,7 @@ Each phase ends with user checkpoint. Do NOT skip ahead.
 - Sticky mobile bottom bar: Call | WhatsApp | Directions (Directions = Google Maps search "Mahakali Textile Palanpur" until exact address known)
 - Every service card footer: "Ask on WhatsApp →"
 - Contact section: big tel, big wa.me with prefill, mailto with subject `Enquiry for Mahakali Textile — Palanpur`, hours, address placeholder
-- Footer: full NAP + email + phone + "Marketing portfolio by Chinmayee Tripathi"
+- Footer: full NAP + email + phone + "Marketing portfolio by Chinmayee Tripathy"
 - Schema: `telephone: +91-7978601417`, `email: tripathychinmayee1@gmail.com`
 - Form: name + need + message → composes WhatsApp message + mailto fallback (no data stored — privacy-friendly for demo)
 
@@ -253,5 +253,5 @@ Please confirm (reply with Approve / Edit):
 On approval, I will: run web research on Palanpur textile market + competitors + keywords, optionally use Playwright for screenshots, and write RESEARCH.md — still no site code, no image downloads until RESEARCH is approved.
 
 ---
-*Contact: Chinmayee Tripathi — tripathychinmayee1@gmail.com — +917978601417*
+*Contact: Chinmayee Tripathy — tripathychinmayee1@gmail.com — +917978601417*
 *Business: Mahakali Textile, Palanpur, India*
